@@ -1,0 +1,27 @@
+1ª unir tabelas mensais
+
+create table acoustic-realm-395017.estudo_caso.cyclistic_2022 as (
+SELECT * FROM `acoustic-realm-395017.estudo_caso.cyclistic_202201` 
+union all 
+select * from acoustic-realm-395017.estudo_caso.cyclistic_202202
+union all
+select * from acoustic-realm-395017.estudo_caso.cyclistic_202203
+union all
+select * from acoustic-realm-395017.estudo_caso.cyclistic_202204
+union all
+select * from acoustic-realm-395017.estudo_caso.cyclistic_202205
+union all
+select * from acoustic-realm-395017.estudo_caso.cyclistic_202206
+union all
+select * from acoustic-realm-395017.estudo_caso.cyclistic_202207
+union all 
+select * from acoustic-realm-395017.estudo_caso.cyclistic_202208
+union all
+select * from acoustic-realm-395017.estudo_caso.cyclistic_202209
+union all
+select * from acoustic-realm-395017.estudo_caso.cyclistic_202210
+union all
+select * from acoustic-realm-395017.estudo_caso.cyclistic_202211
+union all
+select * from acoustic-realm-395017.estudo_caso.cyclistic_202212
+)
