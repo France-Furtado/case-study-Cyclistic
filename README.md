@@ -1,9 +1,8 @@
 # case-study-Cyclistic
 
-Este é um estudo de caso para um dos projetos finais do Certificado Profissional de Análise de Dados da Google.
+Este é um estudo de caso do Certificado Profissional de Análise de Dados da Google, focado na empresa fictícia de compartilhamento de bicicletas, Cyclistic, sediada em Chicago. Como analista de dados júnior na equipe de marketing, minha função é analisar dados relevantes para apresentar recomendações à equipe executiva sobre a conversão de ciclistas ocasionais em membros.
 
-Cyclistic é uma empresa fictícia de compartilhamento de bicicletas com base e operações em Chicago.
+Meu estudo de caso: https://medium.com/@francee/cyclistic-um-estudo-de-caso-ec440333470c
+Relatório: https://lookerstudio.google.com/reporting/9c73a23e-c76f-43ea-a4b7-01803d245199
 
-A equipe executiva busca maneiras de impulsionar o crescimento e está considerando uma estratégia de marketing para converter uma parte significativa dos ciclistas ocasionais em membros.
-
-Como analista de dados júnior na equipe de análise de marketing da Cyclistic, minha tarefa é apresentar às lideranças minhas descobertas e recomendações após explorar, processar e analisar detalhadamente os dados relevantes.
+*Caso o relatório ficar indisponível, é possível visualizá-lo por pdf neste repositório.
