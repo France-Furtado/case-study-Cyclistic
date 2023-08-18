@@ -25,3 +25,15 @@ select * from acoustic-realm-395017.estudo_caso.cyclistic_202211
 union all
 select * from acoustic-realm-395017.estudo_caso.cyclistic_202212
 )
+
+ride_id	rideable_type	started_at	ended_at	start_station_name	start_station_id	end_station_name	end_station_id	start_lat	start_lng	end_lat	end_lng	member_casual
+C7712EC6E79E95EE	electric_bike	2022-09-09 12:55:00.000000 UTC	2022-09-09 12:59:54.000000 UTC			Lamon Ave & Chicago Ave	302	41.9	-87.76	41.9	-87.75	casual
+CBABC73A934D23FC	electric_bike	2022-04-14 08:46:21.000000 UTC	2022-04-14 08:56:43.000000 UTC					41.8	-87.72	41.81	-87.75	casual
+D86A3FDCA04BA895	electric_bike	2022-04-19 13:07:34.000000 UTC	2022-04-19 13:34:22.000000 UTC					41.94	-87.75	41.94	-87.75	member
+75838A33552AB1CF	electric_bike	2022-08-09 20:23:11.000000 UTC	2022-08-09 20:35:21.000000 UTC					41.93	-87.72	41.94	-87.75	member
+EE4221E99438EEE2	electric_bike	2022-07-14 14:55:13.000000 UTC	2022-07-14 14:58:03.000000 UTC					41.9	-87.75	41.9	-87.75	casual
+04E124366643D00A	electric_bike	2022-07-18 21:08:46.000000 UTC	2022-07-18 21:21:02.000000 UTC					41.93	-87.77	41.9	-87.75	member
+D3C351540B8EBAD5	electric_bike	2022-03-20 16:24:47.000000 UTC	2022-03-20 16:33:42.000000 UTC					41.92	-87.74	41.92	-87.75	member
+80B162C8384CF327	electric_bike	2022-11-08 14:51:16.000000 UTC	2022-11-08 15:16:07.000000 UTC					41.85	-87.73	41.9	-87.75	member
+6EF37B42F4853DE2	electric_bike	2022-05-26 17:50:13.000000 UTC	2022-05-26 17:57:27.000000 UTC					41.92	-87.73	41.92	-87.75	casual
+8DB103D68262CD66	electric_bike	2022-05-20 17:15:24.000000 UTC	2022-05-20 17:25:52.000000 UTC					41.91	-87.74	41.9	-87.75	casual
